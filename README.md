@@ -15,3 +15,10 @@ _✨ MAA 终末地小助手 ✨_
 Powered by [MaaFramework](https://github.com/MaaXYZ/MaaFramework) & [MXU](https://github.com/MistEO/MXU)  
 
 绝赞开发中 🎉…… 
+
+</div>
+
+## 沟通交流
+
+- 用户 QQ 群: 1072587329
+- 开发 QQ 群: 1072587329

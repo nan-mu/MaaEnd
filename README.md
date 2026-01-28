@@ -39,16 +39,16 @@ Powered by [MaaFramework](https://github.com/MaaXYZ/MaaFramework) & [MXU](https:
 
 [development.md](https://github.com/MaaEnd/MaaEnd/blob/main/docs/developers/development.md)
 
-## 沟通交流
-
-- 用户 QQ 群: [1062010346](https://qm.qq.com/q/MN6XLvtZia)
-- 开发 QQ 群: [1072587329](https://qm.qq.com/q/EyirQpBiW4) （干活群，欢迎加入一起开发，但不受理用户问题）
-
 ## 鸣谢
 
 感谢以下开发者对 MaaEnd 作出的贡献：
 
 [![贡献者](https://contrib.rocks/image?repo=MaaEnd/MaaEnd&max=1000)](https://github.com/MistEO/MaaEnd/graphs/contributors)
+
+## 沟通交流
+
+- 用户 QQ 群: [1062010346](https://qm.qq.com/q/MN6XLvtZia)
+- 开发 QQ 群: [1072587329](https://qm.qq.com/q/EyirQpBiW4) （干活群，欢迎加入一起开发，但不受理用户问题）
 
 ## 赞助
 
